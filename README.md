@@ -1,2 +1,5 @@
-# sensor
-sensor dan sqlite nama joko winarno nim 19.01.53.007 A1 
+# Tugas-Sensor-dan-SQLite
+
+NAMA  : joko winarno
+NIM   : 19.01.53.0007
+KELAS : A1 Pemrograman Aplikasi Mobile
